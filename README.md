@@ -1,6 +1,12 @@
 # 💫 About Me:
 I'm currently working on a Helpdesk project<br>I'm currently learning Android app development using java
-
+```
+  while(!dead) {
+    code();
+    eat();
+    sleep();
+  }
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenotsofriendlyblackhat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:as7364554@gmail.com) 
